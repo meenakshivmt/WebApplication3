@@ -8,7 +8,7 @@
     <form id="form1" runat="server">
         <div>
 
-            <%Response.Write("Hello!! Welcome!!"); %>
+            <h2>hello!! welcome!!</h2>
         </div>
     </form>
 </body>
